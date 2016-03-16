@@ -1,0 +1,3 @@
+(String/format "%s" "teste")
+(String/format "%s" ["teste"])
+(String/format "%s" ("teste"))
